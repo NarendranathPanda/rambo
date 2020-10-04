@@ -1,0 +1,13 @@
+{
+  "name": "rambo",
+  "version": "1.0.0",
+  "description": "rambo is simple web application project which will render a html page",
+  "author": "Narendranath Panda <narenp29@gmail.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
